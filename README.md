@@ -13,7 +13,7 @@ sso_session = organization
 sso_account_id = 123456789123
 sso_role_name = squad-support
 ```
-### connecting using SSO session and profile
+### connecting using a profile
 ```
 aws sso login --profile account-name_sso_role_name
 ```
